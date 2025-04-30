@@ -11,7 +11,7 @@ Recuerde los pasos:
 En esta etapa se recomienda analizar la realacion de las entradas y salidas, para luego realizar el pseudocodigo y finalemnte su implementacion
 
 ## Entregables
-En el NEO debe compartir el link de su repositorio publico a los ejercicios. Luego, una vez haya finalizado todos los ejercicios debera publicar un screenshot de los tests aprobados. 
+En el LMS debe compartir el link de su repositorio publico a los ejercicios. Luego, una vez haya finalizado todos los ejercicios debera publicar un screenshot de los tests aprobados. 
 
 Importante: El repositorio de ejercicio debe de ser publico y compartido con el docente.
 
